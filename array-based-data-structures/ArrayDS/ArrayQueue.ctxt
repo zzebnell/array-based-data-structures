@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ArrayQueue
+comment1.params=n
+comment1.target=ArrayQueue(int)
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=
+comment3.target=boolean\ isFull()
+comment4.params=x
+comment4.target=void\ enqueue(java.lang.Object)
+comment5.params=
+comment5.target=java.lang.Object\ dequeue()
+numComments=6
